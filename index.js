@@ -132,7 +132,7 @@ app.get('/', (req, res) => {
                 <span class="text-2xl group-hover:translate-x-2 transition-transform">→</span>
             </a>
 
-            <a href="/gallery" class="accent-border p-6 rounded-[2rem] flex justify-between items-center btn-hover transition-all duration-300 group">
+            <a href="https://kelly-processor.onrender.com/gallery" class="accent-border p-6 rounded-[2rem] flex justify-between items-center btn-hover transition-all duration-300 group">
                 <div>
                     <h3 class="font-bold text-lg uppercase tracking-tight">The Gallery</h3>
                     <p class="text-[10px] opacity-60">Browse Black Hole Visuals</p>
